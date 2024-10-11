@@ -1,3 +1,2 @@
 # pythonfun
- a list file edit python scripts
- In real life, we need to import a file from local space, pick up a few columes, and format them as wished and save them properly for history.
+let's import an import.csv file from local space, import.csv has 10 commandlines, run those 10 commandlines, collect the output, pick up 5 importnat columes, and format them neatly and save them in another file. Please keep write into the file for history.
